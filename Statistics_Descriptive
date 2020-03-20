@@ -1,0 +1,254 @@
+STATISTICS
+What is Statistics?
+Statistics is the form of representing data into useful information for decision makers. To elaborate, Statistics is a branch of Mathematics which involves collecting, organizing, analyzing, interpreting and presenting the data in a more understandable format.
+
+Why Statistics is important?
+Ah! yes my dressing room also looks like the one below.
+Data most times looks very messy . Can we identify how many Shirts are in this room?
+Image result for messy dress images in room
+
+What Statistics can do is present the data into more presentable format. Now in the below image we can find how many white, blue dresses are in. In other words, Statistics is used to Present,describe Business data, Information properly and draw conclusions about a based on information collected.
+Image result for blue dress in hanger men
+
+Types of Statistics
+There are 2 types of Statistics
+
+Descriptive Statistics - It is presenting,organizing and Summarizing the give data which can be either a Sample or a Population Image result for types of statistics image
+
+Inferential Statistics - It is used to draw some conclusion/inferences about a population based on data the given sample data.
+
+Population and Sample:
+Statistics basically involves around study of data set
+Population - Population refers to all elements of a data
+Ex: Census being taken for the whole country population, Election being
+Sample - Sample refers to smaller group of the population selected to represent the population. Most times, we use Samples and draw conclusions about a population which is inferential statistics.
+Ex: Survey taken on Sample to draw conclusions about a population
+
+populationvssample
+
+Parameter and Statistic:
+Parameter - A parameter describes an entire population
+For example: Population Standard Deviation, Population Mean, Population Variance
+Statistic - Statistic is the descriptive measure of a Selected sample
+For example: Sample Standard Deviation, Sample Mean, Sample Variance
+
+Statistical Notations:
+Below are the symbols those are used to represent parameter and Statistic in Statistics
+
+Greek Population Parameter
+Mean - μ
+Variance - σ2
+Standard Deviation - σ
+
+Rome Sample Statistic
+Mean - {\bar {x}}
+Variance - s²
+Standard Deviation - s
+
+Types of Variables:
+Image result for types of variables in statistics
+
+Variables in Statistics can be divided into 2 Parts
+
+Numeric or Quantitative - A category that includes any variable that has numerical value associated with it
+Discrete - a variable which can be counted
+Continuous- a variable which is measurable
+
+Identify the Type of Numerical variables from the below examples
+
+Number of Books in my Shelf
+Discrete
+Length of white cloth in meters
+Continuous
+Number of Students in a class
+Discrete
+Time between Students arriving at a class
+Continuous
+Categorical or Qualitative - A Category that includes any non-numeric variable basically we can say it includes Alphabets or Alpha Numeric
+Ordinal - A variable which includes alphabets and are Ordered as well
+Nominal - A variable which includes alphabets and does not have intrinsic order
+
+For Example
+
+Eye Color ( Brown, blue, Green)
+Nominal
+Gender (Male, Female)
+Nominal
+Income Tax Slabs(Up to 2.5L, Rs 2.5L to 5L, Rs 5L to 7.5L,etc)
+Ordinal
+Agreeable rating(strongly disagree, disagree, neutral, agree, strongly agree)
+Ordinal
+Measures of Descriptive Statistics
+Some measures that are commonly used to describe a data set are
+
+			 Modality
+			 Symmetry
+			 Measures of Central Tendancy 
+			 Variability
+Modality - It is determined by the number of peaks in a distribution
+Unimodal as the name suggests the distribution has only 1 peak value , bimodal is something which has 2 peak values and Multimodal has multiple peak points.
+Image result for modality statistics
+
+Symmetry - It is a measure used to describe the Shape of a distribution.
+If the Shape of the distribution(from the center point or Mean) looks the same on both left and right side then it is a symmetry distribution. In other words, a Symmetry distribution can be divided at the center so that each half is a mirror image of the other.
+Asymmetry or Non-Symmetric distribution cannot be divided into 2 equal halves. There are two types in asymmetry distribution
+Positive skewness - Here large set data are towards the extreme right
+Negative skewness - this distribution is just opposite to positive skewness and large set of data re towards left extreme. Here mean is smaller than Median
+
+Image result for symmetry statistics
+
+Measures of Central Tendency
+
+A measure of central tendency is a single value that attempts to describe a set of data by identifying the central position within that set of data. It is used to compute, the center around which the data is distributed.
+
+The Mean, Median and Mode are the measures of Central Tendency.
+
+Mean - it is the simply the average i.e the Sum of all values divided by the number of values. It is considered the most important measure of Central Tendency for making assumptions about a population from a given set of Samples.
+
+Median - it is the middle point or middle value(50th Percentile) of a given data set. So for finding the median, we need to arrange our data in ascending order. Median is one data which is most less affected by Outliers presence as it is the middle value of the data set
+
+Mode - Mode is the most frequently occurring value in a given data set or distribution. There are chances that a data set can contain more than 1 mode
+
+Lets take an example of a Cricket Player’s score for the past 7 matches. We shall find the measures of Central Tendency with this example
+|Scores|15|100|5|30|60|23|5|
+
+Mean = (Sum of All Values)/ No. of Values =	    (15+100+5+30+60+23+5)/7 = 238/7 = 34    
+                Mean = 34
+                       
+5 is occuring 2 times in our data so
+				 Mode=5
+
+For finding the Median, lets arrange our data
+		    5 5 15 **23** 30 60 100
+The middle value is 23 so 	
+				Median = 23
+
+ On another note, lets find the median for 6 Values given values alone - 5 5 15 23 30 60 then the median would be Sum of 3rd & 4th Values i.e (15+23)/2 , in this case 
+				 Median = 19
+Variability
+Variability is the measure which describes how spread our data is (amount of variability), it is an extent to which how the data values vary from average value and how the data values vary from each other . It is also called as Measure of Spread or Dispersion. The commonly used Variability are
+
+  Range
+  Interquartile Range
+  Variance
+  Standard Deviation
+Range- In a given data set, Range is the difference between the Largest and smallest data set.
+
+Lets take the below 2 data sets to compute Range
+|Data 1 |5|6|15|1|34|11|71
+|Data 2 |15|26|45|18|34|11|91
+
+ Data 1
+ Maximum Value= 71, Minimum Value=1
+ Range= Max.Value- Min.Value=71-1=70
+ 
+ Similarly,
+ Data 2
+ Range=91-11=80
+Interquartile Range - Before knowing about Interquartile range, lets know about Percentile. It is a number where a certain percentage of value fall below that value i.e
+Nth percentile states that there are atleast N% of values less than or equal to this value and (100-N) values are greater or equal to this value
+i = (N/100)*n
+N – The percentile we are interested
+n – Number of values
+
+Here is an example, if Suresh has obtained 
+80th Percentile in CAT exam then it denotes 
+that 80% of people are below Suresh's score 
+in CAT or 20% of people are above his Score
+Interquartile Range known as IQR, this range is the middle fifty of where the data lies. It is also known as 5 number Summary of any data which are Minimum Value, Lowest Quartile Value(Q1), Second Quartile Value(Q2) , 3rd Quartile Value(Q3) and Maximum Value. IQR is the difference between 75th Pecentile Value(Upper Quartile) and 25th Percentile Value(Lower Quartile).
+
+Interquartile Range = Q3-Q1
+Image result for interquartile range
+
+Lets find Quartile Values from Excel,Our data set looks like below
+2 3 4 5 8 10 12 15
+
+To find the 5 number summary, we do have formula in excel
+
+   Minimum Value=QUARTILE.INC(Range,0)= 2
+   where Range is the Starting Values cell
+   name to Ending Values cell name from excel
+   Q1 = QUARTILE.INC(Range,1)= 4.5
+   Q2/Median=QUARTILE.INC(Range,2)= 8
+   Q3 = QUARTILE.INC(Range,3)= 11
+   Maximum Value = QUARTILE.INC(Range,4)= 15
+Image showing how to generate Box Plot from excel
+Image result for box plot option from excel
+
+For generating Box Plot, select the data in excel and navigate to Insert-> Box and Whisker. A chart similar to the below would get generated representing the 5 summary value.
+
+Image result for box plot option from excel
+
+Regarding Outliers- Let take an example for getting the Outliers explained, Data is as below
+1 2 2 4 5 8 10 12 15 18 35
+
+Box and Whisker Plot with Outlier
+
+IQR is defined as the distance between the 1st quartile and the 3rd quartile. In this example, IQR = Q3 - Q1 = 15 - 2 = 13. A data point is considered an outlier if it exceeds a distance of 1.5 times the IQR below the 1st quartile (Q1 - 1.5 * IQR = 2 - 1.5 * 13 = -17.5) or 1.5 times the IQR above the 3rd quartile (Q3 + 1.5 * IQR = 15 + 1.5 * 13 = 34.5). Therefore, in this example, 35 is considered an outlier since it falls outside the calculated interval. Whiskers are the line that extend on either side of the box parallel to the box
+
+Pictorial representation of 5 number summary, Lower Whisker, Upper Whisker and Outliers
+Image result for outliers interquartile range
+
+Variance- Variance is defined as the average squared difference of a value from mean of a data set.
+
+Equation for variance equals the sum of X values minus the average of X values squared divided by the number of values NWhere X is the particular Value, μ is the mean of the data set and N is the number of Values in the data set
+
+Standard Deviation- It is defined as the Square root of Variance and is the amount of dispersion of a set of values. Basically, it tells how far a value deviates from the mean Value. A low standard deviation indicates that the values tend to be close to the mean of the set, while a high standard deviation indicates that the values are spread out over a wider range and are not consistent.
+
+{\displaystyle s={\sqrt {{\frac {1}{N-1}}\sum _{i=1}^{N}(x_{i}-{\bar {x}})^{2}}},}
+
+Where Xi is the value,
+{\displaystyle \textstyle {\bar {x}}} is the mean of the obeservations and N is the number of Values
+
+Descriptive Analysis from Excel- In Excel, under Data-> Data Analysis-> Descriptive analysis provides the measures of Central Tendency Values, Variance , Standard Deviation,etc
+
+Option from Excel
+Image result for descriptive analysis in excel
+
+Values that get generated using Descriptive Analysis
+Image result for descriptive analysis in excel
+
+Coefficient of Variation
+Sometimes even with Measures of Central tendency , Standard Deviation we will not be able to explain which data is more spread out or consistent. Then we use Coefficient of Variation(CV), it is a ratio of Standard Deviation to the Mean and generally expressed in %.
+
+Coefficient of Variation=(Standard Deviation/ Mean) * 100.
+In symbols: CV = (SD/xbar) * 100.
+
+The higher the coefficient of variation, the greater the level of dispersion around the mean and less C.V means the data is more consistent(less variation)
+
+Measures of Association between 2 Variables
+The relation or association between 2 variables can be understood using
+
+	Covariance
+	Correlation coefficient
+Covariance - It explains how two variables vary with eachother.If both variables vary in the same direction then it is Positive covariance and those vary in opposite direction it is negative covariance. It mainly tells the direction which variables vary
+
+Covariance Formula (Population)
+
+Where:
+
+Xi – the values of the X-variable
+Y****j – the values of the Y-variable
+X̄ – the mean (average) of the X-variable
+Ȳ – the mean (average) of the Y-variable
+n – the number of data points
+Correlation of Coefficient- Correlation explains how change in one variable leads to how much proportion change in second variable. Correlation usually varies between -1 to +1 and a value of 0 means there is no relation between 2 variables.
+Covariance will have causation and Correlation will not have causation.
+
+Covariance vs. Correlation
+
+Where:
+
+ρ(X,Y) – the correlation between the variables X and Y
+Cov(X,Y) – the covariance between the variables X and Y
+σX – the standard deviation of the X-variable
+σY – the standard deviation of the Y-variable
+Covariance and Correlation of 2 Variables can be calculated using Data Analysis tab and the matrix that gets generated while findings correlation is called Correlation Coefficient Matrix.
+Image result for covariance and correlation excel
+
+Coefficient Correlation Matrix
+Image result for covariance and correlation excel
+
+Below picture denotes the types of correlation
+
+Image result for positive negative covar
